@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/339933?style=plastic&logo=Node.js&logoColor=339933"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/339933?style=plastic&logo=Node.js&logoColor=339933"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komawer02&show_icons=true&theme=radical)
